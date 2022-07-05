@@ -6,5 +6,5 @@ resource "aws_instance" "my-instance" {
 	tags = {
 		Name = var.instance_name
 	}
-	subnet_id = "subnet-087923e8bc24afc62"
+	subnet_id = "subnet-08dadb0e594cdfc58"
 }
